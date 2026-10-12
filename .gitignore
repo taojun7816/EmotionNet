@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
+
+# 用户采集的数据与训练产物（不提交到仓库）
+data/
+models/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
